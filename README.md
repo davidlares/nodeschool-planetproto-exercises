@@ -1,6 +1,6 @@
 ## DavidProto
 
- Workshop de ejercicios basados unicamente en el objeto Prototype y sus diferentes formas de aplicacion en código. Creacion, buenas practicas y procesos asincronos
+ Workshop de ejercicios basados únicamente en el objeto Prototype y sus diferentes formas de aplicacion en código.
 
  Parte de la serie de Workshops de NodeSchool
 
