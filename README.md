@@ -1,4 +1,4 @@
-## Proto
+## Planet Proto
 
 Workshop with exercises based solely on the Prototype object and its various applications in code.
 
