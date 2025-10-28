@@ -1,15 +1,11 @@
-## DavidProto
+## Proto
 
- Workshop de ejercicios basados únicamente en el objeto Prototype y sus diferentes formas de aplicacion en código.
+Workshop with exercises based solely on the Prototype object and its various applications in code.
 
- Parte de la serie de Workshops de NodeSchool
+Part of the NodeSchool Workshop series
 
-## Créditos
-- [David E Lares S](https://twitter.com/@davidlares3)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## NodeSchool Workshop
-- https://github.com/sporto/planetproto/
-
-## Licencia
-
+## License
 [MIT](https://opensource.org/licenses/MIT)
